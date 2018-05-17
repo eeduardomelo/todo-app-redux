@@ -67,7 +67,7 @@ export default class Todo extends Component{
                     description={this.state.description}                    
                     handleAdd={this.handleAdd}
                     handleChange={this.handleChange}                                        
-                    handleSearch={this.handleSearch}
+                    // handleSearch={this.handleSearch}
                     handleClear={this.handleClear}
                     
                 />
